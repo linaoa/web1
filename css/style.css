@@ -68,7 +68,7 @@ p{
 }
 
 p.h4{
-	color:#f7f7f7;
+	color:#1d1c1c;
 	font-size: 16px;
     line-height: 26px;
 
@@ -133,9 +133,11 @@ p.lead{
 	margin-top: 10px;
 	font-size: 16px;
 }
-footer{
-	border-top: 0 solid rgba(255, 255, 255, 0.09);
+#footer{
+    color: #5715f0;
+	border-top: 0 solid rgba(46, 45, 45, 0.905);
 	padding: 10px 0px;
+	
 }
 footer img{
 	margin-bottom: 30px;
@@ -150,7 +152,7 @@ footer ul{
     padding: 0;
 }
 footer ul a{
-	color: #707070;
+	color: #073af4;
 }
 footer a{
 	color:#f05f5c;
@@ -159,11 +161,12 @@ footer a:hover{
 	color:#f05f5c;
 }
 footer ul a:hover{
-	color: #707070;
+	color: #5715f0;
 	text-decoration: none;
 	opacity: 0.8;
 }
 footer ul li{
+	color: #5715f0;
 	margin-bottom: 10px;
 }
 footer ul{
@@ -223,7 +226,7 @@ footer ul{
 	text-align: center;
 }
 .btn2{
-    color: #f9f6f6;
+    color: #f9f9f9;
     border: 1px solid #707070;
     padding: 10px 24px;
     border-radius: 20px;
@@ -295,7 +298,7 @@ header nav img{
 	}
 	footer h4 {
 	    font-size: 17px;
-	    margin-top: 30px;
+	    margin-top: 10px;
 	    margin-bottom: 18px;
 	}
 }
