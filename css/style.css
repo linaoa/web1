@@ -17,6 +17,8 @@ nav li{
     background-position: 50%;
     height: 70vh;
     margin-bottom: 0px;
+	background-size:100% 100%;
+	background-attachment: fixed;
 }
 
 #intro .jumbotron .container{
