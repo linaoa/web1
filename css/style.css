@@ -1,9 +1,12 @@
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
+	
 }
 p,a,span,li,label{
 	font-family: 'Open Sans', sans-serif;
+	Letter-Spacing: 5px;
 }
+
 img{
 	max-width:100%;
 }
