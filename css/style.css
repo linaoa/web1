@@ -198,6 +198,7 @@ footer ul{
 .card-header .btn,.card-header .btn:hover{
 	background:none!important;
 	color:black;
+	display: flex;
 }
 #intro .jumbotron.jumbotron2{
 	height: 400px;
@@ -294,6 +295,13 @@ footer ul{
 header nav img{
 	width : 160px;
 }
+header.container{
+	flex-direction: column;
+	display: flex;
+	align-items: center;
+	margin: auto;
+}
+
 @media only screen and (max-width: 768px) {
 	#second h5 {
 	    margin-bottom: 50px;
