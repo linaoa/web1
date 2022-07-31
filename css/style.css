@@ -43,6 +43,7 @@ nav li{
     border-radius: 20px;
     border: none;
 }
+/*按鈕換顏色*/
 .btn:hover{
 	opacity:0.8;
 	background-color: #f05f5c!important;
