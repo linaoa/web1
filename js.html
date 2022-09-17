@@ -1,0 +1,17 @@
+<script>
+
+var person = {
+  name: 'jack',
+  age: 18,
+  job: 'IT',
+  schools: ['School A','School B','School C'],
+  personalStatement: function(){
+            var temp = 'My name is ' + this.name + ' and my job is ' + this.job;
+  return temp;
+  }
+};
+
+var x = person.personalStatement();
+alert(x);
+  
+</script>
